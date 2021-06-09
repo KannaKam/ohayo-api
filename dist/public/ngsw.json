@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1623258097659,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.f5cf793275256d12458d.js",
+        "/manifest.webmanifest",
+        "/polyfills.94daefd414b8355106ab.js",
+        "/runtime.7b63b9fd40098a2e8207.js",
+        "/styles.655e95a566c904a630d0.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/Futura Display BQ Regular.3eca449e5e3bec69fdeb.otf",
+        "/assets/Futura Display BQ Regular.otf",
+        "/assets/axolotl.png",
+        "/assets/background.png",
+        "/assets/bnha.jpg",
+        "/assets/favicon.png",
+        "/assets/haikyuu.jpg",
+        "/assets/hanako.jpg",
+        "/assets/hxh.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/jjk.png",
+        "/assets/kny.jpg",
+        "/assets/logoOhayo.png",
+        "/assets/noimg.png",
+        "/assets/ohayo.png",
+        "/assets/ohayoGif.gif",
+        "/assets/variables.scss",
+        "/background.476ae3c46e16811e3885.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/Futura Display BQ Regular.3eca449e5e3bec69fdeb.otf": "0054a6ddf0a8f26846c2343ef456042c5ae09831",
+    "/assets/Futura Display BQ Regular.otf": "0054a6ddf0a8f26846c2343ef456042c5ae09831",
+    "/assets/axolotl.png": "8bd93b1c25ff1cd6ce66458fa492530b4faadf91",
+    "/assets/background.png": "a77556590d6f3a3314588ced68d94970ab921de4",
+    "/assets/bnha.jpg": "24d24ca6fd656c02fbacf6bfbe01e403bfd1f184",
+    "/assets/favicon.png": "94713e11a435da85ff8cf913578693b74ed95d60",
+    "/assets/haikyuu.jpg": "124c55755517145f4983b2a05f1af0c685f47dd1",
+    "/assets/hanako.jpg": "d7b030d261d5fd61d7c293f15705b44abf4d568a",
+    "/assets/hxh.png": "859b436cbcdfadf60dcdd7b6157e701b6d5951b4",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/jjk.png": "c46f8585cd877d60a15cd5431a374e03332929eb",
+    "/assets/kny.jpg": "d1801437c9732c7f1c32d29e7e3e4b2e679448e3",
+    "/assets/logoOhayo.png": "9394867e69e89984530f44067155740ac56331c4",
+    "/assets/noimg.png": "57f09aad3c56efd4cc20f74295abd440392f8604",
+    "/assets/ohayo.png": "bfe4b015e52ced8318fba6f8750a024de04b72fa",
+    "/assets/ohayoGif.gif": "9860088e9ac2557e2e57c5b1210023a711487898",
+    "/assets/variables.scss": "8256f5a6d995c230c94e9b2aa5abb30406813769",
+    "/background.476ae3c46e16811e3885.png": "a77556590d6f3a3314588ced68d94970ab921de4",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "6e945291d110c8fe6ad67359c4b856699eab1986",
+    "/main.f5cf793275256d12458d.js": "88416c0d044b73c42b97165c3b100876e7f31ec7",
+    "/manifest.webmanifest": "9411cebb285ea2bbeacf69476475ed2ef44b83b2",
+    "/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.655e95a566c904a630d0.css": "e3cec046afb5fd6539121b21af2f03fd011adc3c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
